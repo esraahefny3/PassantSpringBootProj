@@ -1,0 +1,9 @@
+body{
+width: 350px;
+height:300px;
+font-family: 'Roboto' !important;
+}
+hr {
+ margin-left: 0;
+ margin-right: 0;
+}
